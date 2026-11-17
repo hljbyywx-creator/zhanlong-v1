@@ -1,0 +1,8 @@
+Style/medium: a Chinese monumental ink-wash painting on aged warm xuan rice paper, in the lineage of Southern Song Academy masters (Ma Yuan, Xia Gui, Li Tang) — painted by the exact same hand as the rest of the film. Visible xuan paper fibres and grain everywhere, even inside dense wet black ink; ink bleeds and feathers organically into the paper (洇).
+Mood: tragic, ancient, millennial stillness after a catastrophic celestial war — solemn, eerie, heavy with frozen time and unyielding grief. Towering crags and archaic stone altars rendered with bold axe-cut side-brush strokes (斧劈皴), broken ink (破墨), and dry-brush flying-white (飞白) wind-scars across vast swirling sea-of-clouds emptiness.
+Empty space (留白): at least a third of the frame is pale mist, bare aged paper, or abyssal cloud-void so animated chains, talismans, and figures read with stark clarity.
+Colour: ink first — deep charcoal black, iron greys, burnt ochre (赭石) in the stone, and muted mineral cinnabar-maroon (朱砂暗赭) soaked flatly into the paper like centuries-old dried rust and ritual vermilion; where Daoist light appears, a whisper of translucent lake-jade cyan (缥青/淡石绿). Never glowing neon or digital light.
+Figures (only if requested): abbreviated-brush xieyi figures (梁楷减笔写意), turned away or in shadow, NEVER facial features.
+Absolutely none of: game concept art, matte painting, 3D render, photorealism, thick impasto digital painting, lens flare, bloom, glowing particle dots, anime/webtoon faces, explicit gore or wet splatter, text, calligraphy, legible characters, seals, stamps, signatures, borders, frames, vignettes.
+Composition: keep the bottom fifth of the picture calm and free of critical focal detail (subtitle band).
+Output: one full-bleed 16:9 landscape image, at least 1920×1080.

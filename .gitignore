@@ -1,0 +1,8 @@
+node_modules/
+plates-src/logs/
+plates-src/samples/
+voice-src/raw/
+audio-src
+tools/out/
+*.tmp
+.DS_Store
